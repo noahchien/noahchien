@@ -1,33 +1,29 @@
-# Hi, I'm Noah｜簡新佳 👋
+[![Noah Chien｜寫的是程式，惦記的是使用它的人](https://raw.githubusercontent.com/noahchien/portfolio/main/docs/assets/cover.svg)](https://noahchien.github.io/portfolio/)
 
-我是一名具有十年以上軟體開發經驗的工程師，主要經驗在金融交易與風控、後端架構、系統分析及專案管理。曾參與證券、銀行、保險與研發機構的系統開發，也正在投入小說與遊戲的個人創作。
+# 你好，我是 Noah／簡新佳 👋
 
-我希望把需求分析、系統開發與團隊協作的經驗，延伸到更多能實際使用的工具與作品。
+一名喜歡把問題理清楚、把想法做出來的工程師。
 
-## 工程背景
+十多年的開發路上，從語音應用走進金融系統，我累積了後端開發、系統分析與專案協作的經驗。寫程式讓我著迷的，始終是它能把原本麻煩的事情，變得更順手一些。
 
-- 金融系統：證券交易與風控、信託代理服務、保險給付平台。
-- 後端開發：Java／Spring、C／C++、Node.js、Python。
-- 交付與協作：系統分析、架構設計、程式審查、敏捷開發與專案進度管理。
-- 開發環境：Git、Docker、Jenkins、Linux；另有資料平台、搜尋與語音應用經驗。
+**[逛逛我的完整作品集](https://noahchien.github.io/portfolio/)**　／　[工程經歷與背景](https://github.com/noahchien/portfolio/blob/main/about.md)
 
-經歷包含康和證券、中國信託、富邦人壽與資策會；畢業於交通大學資訊工程系。詳見[經歷摘要](https://github.com/noahchien/portfolio/blob/main/about.md)。
+## 工作裡，我把事情接起來
 
-## 我的作品
+證券風控與交易、信託服務、保險給付平台，都是我走過的領域。從需求、架構和開發，到測試與交付，我喜歡看見零散的環節，慢慢接成一套能運作的系統。
 
-| 方向 | 目前在做的事 | 案例 |
-| --- | --- | --- |
-| 工作與工具 | 將重複流程整理成工具，重視可追蹤、可交接的工作方式 | [工作案例整理](https://github.com/noahchien/portfolio/blob/main/projects/work.md) |
-| 小說與內容工程 | 用 Git 管理創作版本，建立章綱、角色關係、連續性檢核和手機審稿流程 | [小說專案案例](https://github.com/noahchien/portfolio/blob/main/projects/novel.md) |
-| 遊戲 | 《地城餘燼 Cryptfall》：Godot 4 地城探索與 ARPG 原型 | [遊戲專案案例](https://github.com/noahchien/portfolio/blob/main/projects/cryptfall.md) |
-| 個人簡介 | 多重身分、跨領域實作與持續學習 | [關於我](https://github.com/noahchien/portfolio/blob/main/about.md) |
+主要使用 **Java／Spring、C／C++、Node.js、Python**，也有 **Git、Docker、Jenkins** 與DevOps協作經驗。經歷包含康和證券、中國信託、富邦人壽及資策會；交通大學資訊工程系畢業。
 
-## 我如何做專案
+[閱讀工程案例](https://github.com/noahchien/portfolio/blob/main/projects/work.md)
 
-- 先定義需求和完成條件，再以可執行的版本驗證想法。
-- 使用 AI 協助研究、寫程式與整理；由我決定方向、審閱結果並反覆調整。
-- 保留版本與進度紀錄，明確區分原型、待審內容和正式成果。
+## 工作之外，我還有一些想做出來的世界
 
-公開案例會說明實際完成的部分與限制。公司內部資料與未公開小說原稿不放在公開儲存庫。
+📖 **小說與內容工程**：用版本管理、人物關係圖與審稿工具，照顧一個逐漸長大的故事。[創作案例](https://github.com/noahchien/portfolio/blob/main/projects/novel.md)
 
-[查看作品集](https://github.com/noahchien/portfolio)
+🎮 **地城餘燼 Cryptfall**：在Godot裡，把想玩的地城與戰鬥做成原型，一邊試玩、一邊調整。[遊戲案例](https://github.com/noahchien/portfolio/blob/main/projects/cryptfall.md)
+
+> 不要害怕犯錯，要害怕犯同樣的錯。
+
+我想帶著累積的經驗，也帶著還想學新東西的心情，繼續做出有用、也有自己樣子的作品。
+
+<sub>個人專案使用AI協作，我負責方向、判斷與審閱；原型與完成成果分別標示，未公開原稿及公司資料保持私有。</sub>
