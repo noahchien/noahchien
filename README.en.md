@@ -104,6 +104,10 @@ Computer Science graduate, National Chiao Tung University. [Read my background](
 
 ## Outside work, I'm creating worlds of my own
 
+[![Watch the Cryptfall in-engine video](https://raw.githubusercontent.com/noahchien/portfolio/main/docs/media/cryptfall-video-poster.jpg)](https://noahchien.github.io/portfolio/en.html#projects)
+
+**[Watch the game videos](https://noahchien.github.io/portfolio/en.html#projects)**: monster rigs and attack wind-up at 0.6x speed, plus a half-speed mage casting preview. These are in-engine tests, not full normal-speed gameplay.
+
 **Fiction and content tooling:** As stories grow, so do characters, settings, and loose threads. Git, outline checks, relationship maps, and mobile review pages help me keep the work connected. The finalized manuscript currently reaches Chapter 35; longer-term outlines and tooling remain in progress. [Writing project](https://github.com/noahchien/portfolio/blob/main/projects/novel.en.md)
 
 **Cryptfall:** A Godot prototype exploring procedural dungeons, class-based combat, equipment, and upgrade choices. It is a development prototype, not a released game. [Game project](https://github.com/noahchien/portfolio/blob/main/projects/cryptfall.en.md)
